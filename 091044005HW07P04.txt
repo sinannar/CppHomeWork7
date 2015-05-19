@@ -1,0 +1,7 @@
+     KEYWORD   LINE NUMBER       --------KEYWORD       IN        CONTEXT----------
+      access             2          with        random        access           via              
+      arrays             3          char            or        arrays            of              
+       bytes             2          work           ın         bytes         using              
+        char             3           the          type          char            or              
+        cHar             3        arrays            of          cHar           and              
+ conversions             4        handle          type   conversions            on              

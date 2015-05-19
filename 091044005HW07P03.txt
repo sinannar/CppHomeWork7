@@ -1,0 +1,5 @@
+There are at least two complications when reading and writing and writing with 
+random access via fstream: (1) you normally work ın bytes using 
+the type char or arrays of cHar and need to handle type conversions 
+on your own, and(2) You typically need to the position a pointer
+(indicating where the read or write begins) before each of write
